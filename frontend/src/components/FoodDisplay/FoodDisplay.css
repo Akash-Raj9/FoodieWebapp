@@ -1,0 +1,37 @@
+/* .food-display{
+    margin-top: 30px;
+}
+
+.food-display h2{
+    font-size: max(2vw,24px);
+    font-weight: 600;
+}
+
+.food-display-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(240px,1fr));
+    margin-top: 30px;
+    gap: 30px;
+    row-gap: 50px;
+} */
+
+.food-display {
+    margin-top: 30px;
+    background-color: #F6F0F0;
+    padding: 40px 8vw;   /* Added padding for breathing space */
+    border-radius: 12px; /* Optional: adds a smooth rounded edge look */
+}
+
+.food-display h2 {
+    font-size: max(2vw, 24px);
+    font-weight: 600;
+}
+
+.food-display-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    margin-top: 30px;
+    gap: 30px;
+    row-gap: 50px;
+}
+
