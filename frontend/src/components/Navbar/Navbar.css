@@ -812,7 +812,7 @@
 }
 
 .profile-icon:hover {
-    transform: scale(1.1);
+    transform: scale(1.3);
 }
 
 .nav-profile-dropdown {
@@ -826,7 +826,7 @@
     border: 1px solid #245457;
     outline: 2px solid white;
     right: 0;
-    top: 120%;
+    top: 100%;
     z-index: 100;
 }
 
